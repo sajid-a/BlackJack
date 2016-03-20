@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.xtreme.blackjack" version="1.0.0">
   <name>BlackJack</name>
-  <description>BlackJack Game</description>
+  <description>BlackJack</description>
   <author>X~treme</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
